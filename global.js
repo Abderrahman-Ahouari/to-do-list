@@ -57,6 +57,7 @@ function clearinputs(){
       datestart.value = ''
       category.value = 'P1'
       statu.value = 'To do'
+      console.log(",,,n,")
 }
 
 
