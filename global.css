@@ -26,7 +26,7 @@ justify-content: space-around;
     border-bottom: yellow 3px solid;
     width: 400px;
     padding: 15px;
-    font-size: 30px; 
+    font-size: 30px;  
 }
 
 .doing{
@@ -44,6 +44,7 @@ justify-content: space-around;
     width: 400px;
     padding: 15px;
     font-size: 30px;  
+    
 }
 
 .done{
@@ -57,7 +58,7 @@ justify-content: space-around;
 }
 
 
-  
+
 
 .add-search{
     display: flex;
